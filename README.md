@@ -59,4 +59,4 @@ Basadas en los hallazgos, se proponen las siguientes estrategias para Telecom X:
 4.  **Optimizar la Experiencia del Servicio de Fibra Óptica**: Investigar y mejorar la calidad del servicio de fibra óptica, ya que sus usuarios muestran una mayor tasa de churn.
 5.  **Diversificar Opciones y Promociones de Pago**: Evaluar la relación entre el método de `Electronic check` y el churn, incentivando métodos de pago más estables.
 6.  **Segmentación y Ofertas Personalizadas**: Utilizar el modelo de Regresión Logística para identificar proactivamente clientes en riesgo y ofrecerles ofertas de retención personalizadas antes de que cancelen.
-"""
+ 
